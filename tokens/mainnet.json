@@ -2678,5 +2678,13 @@
     "symbol": "YGG",
     "decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x25f8087EAD173b73D6e8B84329989A8eEA16CF73/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8e2b4badac15a4ec8c56020f4ce60faa7558c052",
+    "name": "Communifty",
+    "symbol": "CNFT",
+    "decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8e2b4badac15a4ec8c56020f4ce60faa7558c052/logo.png"
   }
 ]
